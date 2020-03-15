@@ -5,7 +5,7 @@ This is a [MatConvNet](http://www.vlfeat.org/matconvnet) implementation of the w
 [He, Kaiming, et al., "Identity Mappings in Deep Residual Networks", arXiv:1603.05027 (2016)](http://arxiv.org/abs/1603.05027).
 
 
-By [V. Belagiannis](http://www.robots.ox.ac.uk/~vb/) and [A. Gupta](http://www.robots.ox.ac.uk/~ankush/).
+By [V. Belagiannis](https://scholar.google.com/citations?user=a_ajyu8AAAAJ&hl=en) and [A. Gupta](https://scholar.google.com/citations?hl=en&user=23LELwEAAAAJ).
 
 
 ## Information
